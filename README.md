@@ -2,7 +2,8 @@
 
 This project solves the **Traveling Salesman Problem (TSP)** for a set of cities in Vietnam, aiming to find the shortest route that visits each city exactly once and returns to the starting point. The solution uses a **simulated annealing** algorithm from the `python-tsp` library and visualizes the optimal path on an interactive map using Plotly.
 
-![FINAL_PROJECT](https://github.com/user-attachments/assets/4dd2a121-cb1a-47d1-a4b7-d070df650b4d)
+![Uploading Bản sao của FINAL_PROJECT.png…]()
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)

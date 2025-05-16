@@ -1,0 +1,13 @@
+# Tệp dữ liệu
+data/*.py
+
+# Tệp tạm và môi trường
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.env
+venv/
+
+# Tệp cá nhân hoặc hệ thống
+.DS_Store
+*.log

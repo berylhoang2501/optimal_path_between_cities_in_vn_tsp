@@ -57,7 +57,7 @@ python scripts/optimal_path_between_cities_in_vn_tsp.py
 
 ## Results
 
-- Optimal Path:
+- **Optimal Path:**
 
 The simulated annealing algorithm computes an approximate shortest path connecting 32 cities in Vietnam.
 
@@ -69,7 +69,7 @@ The path is visualized on an interactive map, showing the order of cities visite
 
 <img width="410" alt="Ảnh màn hình 2025-05-16 lúc 15 43 02" src="https://github.com/user-attachments/assets/ce7e04e5-7c71-4349-ab76-814c71a9d2bc" />
 
-- Key Findings:
+- **Key Findings:**
 
 
 Simulated annealing provides a high-quality solution but does not guarantee the absolute shortest path due to its heuristic nature.
@@ -78,12 +78,13 @@ The great circle distance matrix ensures accurate geographic distances between c
 
 The solution is computationally efficient for small to medium datasets (e.g., 32 cities).
 
-- Limitations:
+- **Limitations:**
+
 For larger datasets, exact algorithms (computing all permutations) are infeasible due to factorial complexity.
 
 The dataset is limited to 32 cities; expanding to more cities may require additional memory optimization.
 
-- Applications:
+- **Applications:**
 
 Logistics: Optimize delivery routes for transportation companies.
 
